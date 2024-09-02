@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+cold_email/
+app/vectorstore/
 # C extensions
 *.so
 
